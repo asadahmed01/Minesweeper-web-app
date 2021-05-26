@@ -82,8 +82,8 @@ using Minesweep.Shared;
 #line default
 #line hidden
 #nullable disable
-    [Microsoft.AspNetCore.Components.RouteAttribute("/counter")]
-    public partial class Counter : Microsoft.AspNetCore.Components.ComponentBase
+    [Microsoft.AspNetCore.Components.RouteAttribute("/button")]
+    public partial class Button : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
         protected override void BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
@@ -91,14 +91,10 @@ using Minesweep.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 9 "C:\Users\asada\Desktop\C#\Minesweep\Pages\Counter.razor"
+#line 25 "C:\Users\asada\Desktop\C#\Minesweep\Pages\Button.razor"
        
-    private int currentCount = 0;
-
-    private void IncrementCount()
-    {
-        currentCount++;
-    }
+  [Parameter]
+  public string Content { get; set; }
 
 #line default
 #line hidden

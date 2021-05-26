@@ -4,7 +4,7 @@
 #pragma warning disable 0649
 #pragma warning disable 0169
 
-namespace Minesweep.Pages
+namespace Minesweep
 {
     #line hidden
     using System;
@@ -82,23 +82,13 @@ using Minesweep.Shared;
 #line default
 #line hidden
 #nullable disable
-    [Microsoft.AspNetCore.Components.RouteAttribute("/button")]
-    public partial class Button : Microsoft.AspNetCore.Components.ComponentBase
+    public partial class _Imports : System.Object
     {
         #pragma warning disable 1998
-        protected override void BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
+        protected void Execute()
         {
         }
         #pragma warning restore 1998
-#nullable restore
-#line 25 "C:\Users\asada\Desktop\C#\Minesweep\Pages\Button.razor"
-       
-  [Parameter]
-  public string Content { get; set; }
-
-#line default
-#line hidden
-#nullable disable
     }
 }
 #pragma warning restore 1591

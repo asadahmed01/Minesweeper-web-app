@@ -12,105 +12,6 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": -1949354631,
-        "Kind": "Components.Component",
-        "Name": "Minesweep.Pages.FetchData",
-        "AssemblyName": "Minesweep",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Minesweep.Pages.FetchData"
-        }
-      },
-      {
-        "HashCode": 657253057,
-        "Kind": "Components.Component",
-        "Name": "Minesweep.Pages.FetchData",
-        "AssemblyName": "Minesweep",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Minesweep.Pages.FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Minesweep.Pages.FetchData",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -588723136,
-        "Kind": "Components.Component",
-        "Name": "Minesweep.Pages.Counter",
-        "AssemblyName": "Minesweep",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Minesweep.Pages.Counter"
-        }
-      },
-      {
-        "HashCode": -782205252,
-        "Kind": "Components.Component",
-        "Name": "Minesweep.Pages.Counter",
-        "AssemblyName": "Minesweep",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Minesweep.Pages.Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Minesweep.Pages.Counter",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1238797001,
-        "Kind": "Components.Component",
-        "Name": "Minesweep.Pages.Index",
-        "AssemblyName": "Minesweep",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Minesweep.Pages.Index"
-        }
-      },
-      {
-        "HashCode": -821635330,
-        "Kind": "Components.Component",
-        "Name": "Minesweep.Pages.Index",
-        "AssemblyName": "Minesweep",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Minesweep.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Minesweep.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -190603486,
         "Kind": "Components.Component",
         "Name": "Minesweep.Pages.Button",
@@ -160,6 +61,92 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "Minesweep.Pages.Button",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1238797001,
+        "Kind": "Components.Component",
+        "Name": "Minesweep.Pages.Index",
+        "AssemblyName": "Minesweep",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Minesweep.Pages.Index"
+        }
+      },
+      {
+        "HashCode": -821635330,
+        "Kind": "Components.Component",
+        "Name": "Minesweep.Pages.Index",
+        "AssemblyName": "Minesweep",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Minesweep.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Minesweep.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1307069642,
+        "Kind": "Components.Component",
+        "Name": "Minesweep.Shared.SurveyPrompt",
+        "AssemblyName": "Minesweep",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Minesweep.Shared.SurveyPrompt"
+        }
+      },
+      {
+        "HashCode": 1462781091,
+        "Kind": "Components.Component",
+        "Name": "Minesweep.Shared.SurveyPrompt",
+        "AssemblyName": "Minesweep",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Minesweep.Shared.SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Minesweep.Shared.SurveyPrompt",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -256,59 +243,6 @@
           "Runtime.Name": "Components.None",
           "Common.TypeName": "Minesweep.Shared.MainLayout.Body",
           "Components.IsSpecialKind": "Components.ChildContent",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1307069642,
-        "Kind": "Components.Component",
-        "Name": "Minesweep.Shared.SurveyPrompt",
-        "AssemblyName": "Minesweep",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Minesweep.Shared.SurveyPrompt"
-        }
-      },
-      {
-        "HashCode": 1462781091,
-        "Kind": "Components.Component",
-        "Name": "Minesweep.Shared.SurveyPrompt",
-        "AssemblyName": "Minesweep",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Minesweep.Shared.SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Minesweep.Shared.SurveyPrompt",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -16006,11 +15940,6 @@
       "FileKind": "componentImport"
     },
     {
-      "FilePath": "c:\\Users\\asada\\Desktop\\C#\\Minesweep\\Pages\\FetchData.razor",
-      "TargetPath": "Pages\\FetchData.razor",
-      "FileKind": "component"
-    },
-    {
       "FilePath": "c:\\Users\\asada\\Desktop\\C#\\Minesweep\\Pages\\_Host.cshtml",
       "TargetPath": "Pages\\_Host.cshtml",
       "FileKind": "mvc"
@@ -16029,11 +15958,6 @@
       "FilePath": "c:\\Users\\asada\\Desktop\\C#\\Minesweep\\Pages\\Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
       "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\asada\\Desktop\\C#\\Minesweep\\Pages\\Counter.razor",
-      "TargetPath": "Pages\\Counter.razor",
-      "FileKind": "component"
     },
     {
       "FilePath": "c:\\Users\\asada\\Desktop\\C#\\Minesweep\\App.razor",
