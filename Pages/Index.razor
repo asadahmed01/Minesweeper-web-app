@@ -1,0 +1,38 @@
+@page "/"
+
+<style>
+  .outer {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 200px;
+  }
+
+  .inner {
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+  }
+</style>
+<h1>Hello, world!</h1>
+
+Welcome to your new app.
+
+<div class="outter">
+  <div class="inner">
+    @for (var i = 0; i < 8; i++)
+    {
+      @for (var j = 0; j < 8; j++)
+      {
+
+        <Button Content="Hello" />
+
+
+      }
+
+    }
+
+  </div>
+</div>
